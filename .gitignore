@@ -1,0 +1,16 @@
+# Dependencies & Python caches
+__pycache__/
+*.py[cod]
+*.class
+*.env
+.venv/
+env/
+venv/
+
+# System and logs
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+graphify-out/
+.system_generated/
